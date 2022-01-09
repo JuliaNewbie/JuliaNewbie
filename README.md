@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JuliaNewbie
+- 👀 I’m interested in writing interactive Julia code for applied mathematics applications
+- 🌱 I’m currently learning Julia widgets (sliders, buttons, etc.)
+- 💞️ I’m looking to collaborate on interactive Julia code
+- 📫 How to reach me: caliman999@gmail.com
